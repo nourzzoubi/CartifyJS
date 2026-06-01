@@ -5,7 +5,7 @@ The project focuses on clean UI design, smooth user interactions, product filter
 
 ## 🚀 Live Demo
 
-Coming soon...
+https://nourzzoubi.github.io/CartifyJS/
 
 ## 📌 Features
 
